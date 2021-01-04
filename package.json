@@ -1,0 +1,29 @@
+{
+  "name": "addrootcanode",
+  "version": "1.0.0",
+  "description": "Add trusted CA to node client with axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarianiGiacomo/addRootCANode.git"
+  },
+  "keywords": [
+    "node",
+    "axios",
+    "root",
+    "CA"
+  ],
+  "author": "Giacomo Mariani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarianiGiacomo/addRootCANode/issues"
+  },
+  "homepage": "https://github.com/MarianiGiacomo/addRootCANode#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
